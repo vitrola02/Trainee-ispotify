@@ -1,1 +1,2 @@
-# Trainee-ispotify
+# ispotify
+Front end: iSpotify
